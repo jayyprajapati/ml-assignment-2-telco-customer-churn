@@ -6,7 +6,7 @@
 
 ### Email: 2025aa05018@wilp.bits-pilani.ac.in
 
-### Date: 8th Feb, 2026
+### Date: 15th Feb, 2026
 
 # Telco Customer Churn Prediction using Machine Learning
 
