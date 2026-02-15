@@ -1,0 +1,36 @@
+# Virtual Environments
+env/
+venv/
+.venv/
+env311/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build artifacts
+build/
+dist/
+
